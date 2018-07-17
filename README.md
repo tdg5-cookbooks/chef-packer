@@ -40,3 +40,4 @@ to verify integrity.
 # Author
 
 Author:: Emil Sit (<sit@hadapt.com>)
+Author:: Danny Guinther
